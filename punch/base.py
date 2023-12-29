@@ -1,0 +1,6 @@
+
+class NatType:
+    FULL_CONE = 0
+    ADDRESS_RESTRICTED_CONE = 1
+    PORT_RESTRICTED_CONE = 2
+    SYMMETRIC = 3
